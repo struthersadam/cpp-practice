@@ -1,2 +1,2 @@
-cpp-practice
+C++ Practice Code
 ============
